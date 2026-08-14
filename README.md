@@ -112,7 +112,7 @@ Technologies: Python • Pandas • NumPy • Matplotlib • Seaborn
 
 ## 📫 Let's Connect
 
-🔗 LinkedIn: linkedin.com/in/triveni-barnana-a9364631b
+🔗 LinkedIn: https://www.linkedin.com/in/triveni-barnana-a9364631b/
 
 💻 GitHub: https://github.com/triveni-14
 
