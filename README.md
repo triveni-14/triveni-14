@@ -27,11 +27,10 @@
 - Python
 - Pandas
 - NumPy
-- SQL / MySQL
+- MySQL
 
 ### 📊 Data Visualization & BI
 
-- Power BI
 - Matplotlib
 - Seaborn
 - Excel
