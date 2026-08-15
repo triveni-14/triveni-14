@@ -42,8 +42,6 @@
 - XGBoost
 - CatBoost
 - LightGBM
-- Classification
-- Feature Engineering
 - Model Evaluation
 
 
@@ -51,7 +49,6 @@
 
 - Jupyter Notebook
 - GitHub
-- VS Code
 
 ---
 
