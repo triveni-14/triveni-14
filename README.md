@@ -1,6 +1,6 @@
 👋 Hi, I'm Barnana Triveni!
 
-🎯 Aspiring Data Analyst & Data Scientist | Python • SQL • Power BI • Machine Learning
+🎯 Aspiring Data Analyst & Data Scientist | Python • SQL • Machine Learning
 
 📊 Passionate about transforming data into meaningful insights and building data-driven solutions for real-world problems.
 
