@@ -92,14 +92,6 @@ Technologies: Python • TensorFlow • Keras • U-Net • NumPy
 
 ---
 
-### 🛒 E-Commerce Data Analysis
-
-Performed Exploratory Data Analysis on an e-commerce dataset to identify trends, patterns, and useful business insights.
-
-Technologies: Python • Pandas • NumPy • Matplotlib • Seaborn
-
----
-
 ## 📜 Certifications
 
 - 🐍 Python Foundation Certification - Infosys Springboard
